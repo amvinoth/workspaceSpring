@@ -1,4 +1,3 @@
-*
 # Compiled class file
 *.class
 
@@ -23,5 +22,8 @@
 hs_err_pid*
 
 #eclipse files
-*
 !SpringBootLearning
+.metadata
+.sonarlint
+.recommenders
+RemoteSystemsTempFiles

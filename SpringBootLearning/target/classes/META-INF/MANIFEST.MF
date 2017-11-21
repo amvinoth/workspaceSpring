@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ashwin daniel
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ashwin.daniel
+Implementation-Vendor-Id: com.aspiresys.ashwindaniel
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootLe
+ arning/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
